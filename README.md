@@ -1,4 +1,3 @@
-# citizen-constitution-project
 # The Citizen Constitution Project
 
 ## Overview
