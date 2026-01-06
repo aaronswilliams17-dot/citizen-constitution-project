@@ -22,7 +22,34 @@ across different age groups.
 - Build a platform that can grow over time without redesigning core structure
 
 ## Screenshots
-(We’ll add this once screenshots are selected)
+
+### Home Page (Desktop)
+The homepage introduces the project’s mission, values, and structure, providing clear navigation and a strong visual identity.
+
+![Home Page – Desktop](assets/home-desktop.png)
+
+---
+
+### Home Page (Mobile)
+The site is fully responsive, with layouts and navigation optimized for mobile devices.
+
+![Home Page – Mobile](assets/home-mobile.png)
+
+---
+
+### About Page
+The About page explains the purpose, independence, and guiding principles of The Citizen Constitution Project.
+
+![About Page](assets/about-desktop.png)
+
+---
+
+### Constitutional Education
+This section presents foundational constitutional concepts in a clear, structured, and accessible format.
+
+![Constitutional Education](assets/constitutional-education-desktop.png)
+
+
 
 ## Technologies & Platform
 - WordPress (block editor)
