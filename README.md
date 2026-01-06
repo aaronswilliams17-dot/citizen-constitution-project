@@ -40,7 +40,7 @@ The site is fully responsive, with layouts and navigation optimized for mobile d
 ### About Page
 The About page explains the purpose, independence, and guiding principles of The Citizen Constitution Project.
 
-![About Page](assets/about-desktop.png)
+![About Page](assets/about-page-desktop.png)
 
 ---
 
